@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karee\\source\\repos\\EFC_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829140231_onetooneemp_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829140231_onetooneemp_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829150919_proc_getemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829150919_proc_getemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829151825_proc_getemployeebiggerthanfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829151825_proc_getemployeebiggerthanfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829134718_addisdeletedtoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829134718_addisdeletedtoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829133818_seeddatadepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829133818_seeddatadepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|c:\\users\\karee\\source\\repos\\efc_project\\efc_project\\migrations\\20240829133303_relationprojectdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820273A6-1AF7-45EC-A1C2-BC812FBFF323}|EFC_Project\\EFC_Project.csproj|solutionrelative:efc_project\\migrations\\20240829133303_relationprojectdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240829151825_proc_GetEmployeeBiggerThanFive.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829151825_proc_GetEmployeeBiggerThanFive.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829151825_proc_GetEmployeeBiggerThanFive.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829151825_proc_GetEmployeeBiggerThanFive.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829151825_proc_GetEmployeeBiggerThanFive.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:18:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240829150919_proc_GetEmployeeByID.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829150919_proc_GetEmployeeByID.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829150919_proc_GetEmployeeByID.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829150919_proc_GetEmployeeByID.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829150919_proc_GetEmployeeByID.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:09:19.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240829140231_OneToOneEmp_Address.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829140231_OneToOneEmp_Address.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829140231_OneToOneEmp_Address.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829140231_OneToOneEmp_Address.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829140231_OneToOneEmp_Address.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:02:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Model\\Address.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Address.cs",
+              "RelativeToolTip": "EFC_Project\\Model\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:31:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240829134718_addIsDeletedToEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829134718_addIsDeletedToEmployees.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829134718_addIsDeletedToEmployees.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829134718_addIsDeletedToEmployees.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829134718_addIsDeletedToEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:47:18.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240829133818_seedDataDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829133818_seedDataDepartment.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829133818_seedDataDepartment.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829133818_seedDataDepartment.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829133818_seedDataDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:38:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240829133303_relationPRojectDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829133303_relationPRojectDepartment.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Migrations\\20240829133303_relationPRojectDepartment.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Migrations\\20240829133303_relationPRojectDepartment.cs",
+              "RelativeToolTip": "EFC_Project\\Migrations\\20240829133303_relationPRojectDepartment.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:33:03.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Model\\Department.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Department.cs",
+              "RelativeToolTip": "EFC_Project\\Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:30:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Model\\Project.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Project.cs",
+              "RelativeToolTip": "EFC_Project\\Model\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:30:24.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Model\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\CompanyContext.cs",
+              "RelativeToolTip": "EFC_Project\\Model\\CompanyContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:25:16.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Model\\Employee.cs",
+              "RelativeToolTip": "EFC_Project\\Model\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:02:08.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Program.cs",
+              "RelativeDocumentMoniker": "EFC_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\karee\\source\\repos\\EFC_Project\\EFC_Project\\Program.cs",
+              "RelativeToolTip": "EFC_Project\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4wBsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:32:14.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
