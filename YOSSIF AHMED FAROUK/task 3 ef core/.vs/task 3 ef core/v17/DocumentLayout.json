@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\DPI tasks\\c#\\task 3 ef core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\addrsses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\addrsses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\dep_pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\dep_pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\departmentclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\departmentclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\config\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\config\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|a:\\dpi tasks\\c#\\task 3 ef core\\task 3 ef core\\migrations\\20240830041505_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431F5968-BB13-4B97-B221-EC270C7AF22C}|task 3 ef core\\task 3 ef core.csproj|solutionrelative:task 3 ef core\\migrations\\20240830041505_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dep_pro.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\dep_pro.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\dep_pro.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\dep_pro.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\dep_pro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:20:38.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employee.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\config\\employee.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\config\\employee.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\config\\employee.cs",
+              "RelativeToolTip": "task 3 ef core\\config\\employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:36:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mydatabase.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\mydatabase.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\mydatabase.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\mydatabase.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\mydatabase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:57:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addrsses.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\addrsses.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\addrsses.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\addrsses.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\addrsses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:56:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "project.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\project.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\project.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\project.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:56:03.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentClass1.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\DepartmentClass1.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\DepartmentClass1.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\DepartmentClass1.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\DepartmentClass1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:55:48.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employee.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\employee.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\models\\employee.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\models\\employee.cs",
+              "RelativeToolTip": "task 3 ef core\\models\\employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:55:29.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240830041505_intial.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\Migrations\\20240830041505_intial.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\Migrations\\20240830041505_intial.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\Migrations\\20240830041505_intial.cs",
+              "RelativeToolTip": "task 3 ef core\\Migrations\\20240830041505_intial.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:15:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\Program.cs",
+              "RelativeDocumentMoniker": "task 3 ef core\\Program.cs",
+              "ToolTip": "A:\\DPI tasks\\c#\\task 3 ef core\\task 3 ef core\\Program.cs",
+              "RelativeToolTip": "task 3 ef core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:35:48.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
