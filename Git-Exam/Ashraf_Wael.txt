@@ -1,0 +1,160 @@
+Here are 20 multiple-choice questions focused on Git and GitHub commands:
+
+1. What command initializes a new Git repository?
+
+a) git init  (answ)
+b) git start
+c) git new
+d) git create
+
+
+2. Which command is used to check the current status of the repository?
+
+a) git status  (answ)
+b) git check
+c) git verify
+d) git inspect
+
+
+3. How do you stage changes for a commit?
+
+a) git stage
+b) git add    (answ)
+c) git commit
+d) git push
+
+
+4. Which command is used to commit changes to the repository?
+
+a) git commit
+b) git push
+c) git save
+d) git apply
+
+
+5. What command is used to view the commit history?
+
+a) git history
+b) git log      (answ)
+c) git show
+d) git commits
+
+
+6. How do you create a new branch in Git?
+
+a) git branch newBranch     (answ)
+b) git create newBranch
+c) git checkout newBranch
+d) git init newBranch
+
+
+7. Which command is used to switch between branches?
+
+a) git switch      (answ)
+b) git checkout
+c) git move
+d) git change
+
+
+8. How do you merge a branch into the current branch?
+
+a) git combine
+b) git merge  (answ)
+c) git join
+d) git add
+
+
+9. What command is used to clone a repository from GitHub?
+
+a) git download
+b) git fetch
+c) git clone     (answ)
+d) git copy
+
+
+10. How do you push changes to a remote repository?
+
+a) git push      (answ)
+b) git send  
+c) git upload
+d) git publish
+
+
+11. Which command is used to pull the latest changes from a remote repository?
+
+a) git pull     (answ)
+b) git fetch
+c) git download
+d) git merge
+
+
+12. How do you discard all local changes to tracked files?
+
+a) git discard
+b) git reset --hard  (answ)
+c) git undo
+d) git clean
+
+
+13. Which command removes untracked files from the working directory?
+
+a) git delete
+b) git clean      (answ)
+c) git remove
+d) git clear
+
+
+14. How do you see the difference between staged and working directory files?
+
+a) git compare
+b) git diff          (answ)
+c) git log --diff
+d) git status --diff
+
+
+15. What command is used to rename a branch?
+
+a) git rename-branch   (answ)
+b) git branch -m
+c) git move-branch
+d) git branch-rename
+
+
+16. How do you delete a branch locally?
+
+a) git branch -d   (answ)
+b) git delete-branch
+c) git branch -r
+d) git branch --delete
+
+
+17. Which command lists all remote repositories?
+
+a) git remote list
+b) git remote -v    (answ)
+c) git list-remote
+d) git remotes
+
+
+18. How do you set the URL for a remote repository?
+
+a) git set-url
+b) git remote add
+c) git remote set-url   (answ)
+d) git url set
+
+
+19. Which command is used to fetch all branches from a remote repository?
+
+a) git fetch
+b) git pull --all
+c) git fetch --all  (answ)
+d) git clone --all
+
+
+20. How do you undo the last commit without losing the changes?
+
+a) git reset --soft HEAD~1  (answ)
+b) git revert
+c) git undo commit
+d) git reset --hard HEAD~1

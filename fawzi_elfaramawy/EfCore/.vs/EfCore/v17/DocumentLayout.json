@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\deptproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\deptproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|c:\\users\\elfaramawy\\onedrive\\desktop\\.net tasks\\efcore\\efcore\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14088519-F348-479A-A8B6-0857028917D4}|EfCore\\EfCore.csproj|solutionrelative:efcore\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "EfCore\\Models\\CompanyContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:55:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeptProject.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\DeptProject.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\DeptProject.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\DeptProject.cs",
+              "RelativeToolTip": "EfCore\\Models\\DeptProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:11:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Project.cs",
+              "RelativeToolTip": "EfCore\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Employee.cs",
+              "RelativeToolTip": "EfCore\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Department.cs",
+              "RelativeToolTip": "EfCore\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Adress.cs",
+              "RelativeDocumentMoniker": "EfCore\\Models\\Adress.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Models\\Adress.cs*",
+              "RelativeToolTip": "EfCore\\Models\\Adress.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Program.cs",
+              "RelativeDocumentMoniker": "EfCore\\Program.cs",
+              "ToolTip": "C:\\Users\\elfaramawy\\OneDrive\\Desktop\\.Net Tasks\\EfCore\\EfCore\\Program.cs",
+              "RelativeToolTip": "EfCore\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:08:14.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+Here are 80 multiple-choice questions (MCQs) on Entity Framework Core and LINQ, covering various aspects of these technologies:
+Entity Framework Core
+
+    Which of the following is the correct way to install Entity Framework Core in a .NET Core project?
+        a) Install-Package EntityFramework
+        b) dotnet add package Microsoft.EntityFrameworkCore (right answer)
+        c) Install-Package EFCore
+        d) dotnet add package Microsoft.EntityFramework
+
+    What is the default behavior of Entity Framework Core when a navigation property is not explicitly configured?
+        a) Lazy Loading
+        b) Eager Loading
+        c) Explicit Loading
+        d) No Loading (right answer)
+
+    Which method in Entity Framework Core is used to configure the primary key of an entity?
+        a) HasPrimaryKey
+        b) ToTable
+        c) HasKey (right answer)
+        d) HasColumnName
+
+    Which method is used to run pending migrations in Entity Framework Core?
+        a) Update-Database (right answer)
+        b) Apply-Database
+        c) Run-Migrations
+        d) Execute-Migrations
+
+    What does the DbSet class in Entity Framework Core represent?
+        a) A collection of entities (right answer)
+        b) A SQL command
+        c) A database connection
+        d) A configuration setting
+
+    How do you specify a one-to-many relationship in Entity Framework Core?
+        a) Using HasOne and WithMany (right answer)
+        b) Using HasMany and WithOne
+        c) Using HasMany and WithMany
+        d) Using HasOne and WithOne
+
+    Which of the following methods is used to add a migration in Entity Framework Core?
+        a) Add-Migration (right answer)
+        b) Create-Migration
+        c) Generate-Migration
+        d) AddNew-Migration
+
+    What is the purpose of the OnModelCreating method in Entity Framework Core?
+        a) To configure entity properties
+        b) To initialize the database
+        c) To map CLR classes to database tables
+        d) To define relationships between entities (right answer)
+
+    How do you seed initial data into a database using Entity Framework Core?
+        a) Using the HasData method (right answer)
+        b) Using the Seed method 
+        c) Using the Initialize method
+        d) Using the Populate method
+
+    Which method in Entity Framework Core is used to create a transaction?
+        a) BeginTransaction  (right answer)
+        b) StartTransaction
+        c) CreateTransaction 
+        d) OpenTransaction
+
+    What is the purpose of the AsNoTracking method in Entity Framework Core?
+        a) To enable lazy loading
+        b) To improve performance by not tracking changes  (right answer)
+        c) To enable eager loading
+        d) To track entity changes
+
+    Which method is used to execute a raw SQL query in Entity Framework Core?
+        a) FromSqlRaw
+        b) ExecuteSqlRaw (right answer)
+        c) RunSqlQuery
+        d) ExecuteRawQuery 
+
+    Which method is used to include related entities in the query results in Entity Framework Core?
+        a) Include  (right answer)
+        b) Join
+        c) Select
+        d) With
+
+    How can you configure a composite key in Entity Framework Core?
+        a) Using the HasKey method with an anonymous type (right answer)
+        b) Using the HasCompositeKey method
+        c) Using the CompositeKey attribute
+        d) Using the PrimaryKey method
+
+    What does the DbContext.SaveChanges() method do in Entity Framework Core?
+        a) Saves changes to the database (right answer)
+        b) Commits a transaction
+        c) Validates entity changes
+        d) Executes raw SQL commands 
+
+    Which of the following is a way to implement optimistic concurrency in Entity Framework Core?
+        a) Using a ConcurrencyToken property (right answer)
+        b) Using a RowVersion property 
+        c) Using a Timestamp attribute
+        d) Using a Lock statement
+
+    How do you specify a one-to-one relationship in Entity Framework Core?
+        a) Using HasOne and WithOne (right answer)
+        b) Using HasMany and WithMany
+        c) Using HasOne and WithMany
+        d) Using HasMany and WithOne
+
+    Which method is used to apply configurations defined in separate configuration classes in Entity Framework Core?
+        a) ApplyConfigurationsFromAssembly (right answer)
+        b) UseConfiguration
+        c) ApplyConfiguration 
+        d) LoadConfiguration
+
+    What is a shadow property in Entity Framework Core?
+        a) A property that is mapped to a database column but not defined in the CLR class (right answer)
+        b) A property that is hidden from the database schema
+        c) A property that is computed at runtime
+        d) A property that represents a foreign key
+
+    Which method is used to explicitly load a related entity in Entity Framework Core?
+        a) Load (right answer)
+        b) Include
+        c) EagerLoad
+        d) ExplicitLoad
+
+    What is the purpose of the DbContextOptionsBuilder in Entity Framework Core?
+        a) To configure database providers and options for the DbContext  (right answer)
+        b) To build and execute SQL queries
+        c) To map entity relationships
+        d) To define entity validation rules
+
+    Which of the following is NOT a valid lifecycle method for an Entity Framework Core migration?
+        a) Up
+        b) Down
+        c) Apply 
+        d) Build  (right answer)
+
+    Which method in Entity Framework Core is used to remove an entity from the DbContext?
+        a) Remove (right answer)
+        b) Delete 
+        c) Drop 
+        d) Purge
+
+    How can you disable cascade delete in Entity Framework Core?
+        a) By setting OnDelete to Restrict
+        b) By setting OnDelete to NoAction (right answer)
+        c) By setting OnDelete to Cascade
+        d) By setting OnDelete to Disable
+
+    What does the ToTable method in Entity Framework Core do?
+        a) Maps an entity to a specific table name (right answer)
+        b) Creates a new table in the database
+        c) Executes a raw SQL command
+        d) Maps an entity to a view
+
+    Which method in Entity Framework Core is used to execute a stored procedure?
+        a) FromSqlInterpolated (right answer)
+        b) ExecuteStoredProcedure  
+        c) RunStoredProcedure
+        d) ExecuteSqlStoredProcedure 
+
+    What is the purpose of the ValueGeneratedOnAdd method in Entity Framework Core?
+        a) To indicate that the value of a property should be generated by the database when a new entity is added (right answer)
+        b) To indicate that the value of a property should be generated by the application
+        c) To specify a default value for a property
+        d) To mark a property as required
+
+    How do you specify a many-to-many relationship in Entity Framework Core?
+        a) Using HasMany and WithMany (right answer)
+        b) Using HasOne and WithMany
+        c) Using HasMany and WithOne
+        d) Using HasOne and WithOne
+
+    What is the purpose of the HasAlternateKey method in Entity Framework Core?
+        a) To define a unique key that is not the primary key (right answer)
+        b) To define a foreign key relationship
+        c) To define a composite key
+        d) To define a default value
+
+    Which method is used to enable lazy loading in Entity Framework Core?
+        a) UseLazyLoadingProxies (right answer)
+        b) EnableLazyLoading
+        c) SetLazyLoading
+        d) AllowLazyLoading
+
+    Which of the following is a valid database provider for Entity Framework Core?
+        a) MySQL (all answers are right answers)
+        b) Oracle
+        c) InMemory
+        d) PostgreSQL
+
+    What is the purpose of the HasConversion method in Entity Framework Core?
+        a) To convert a property value between the entity and the database (right answer)
+        b) To convert an entity to another type
+        c) To convert a database table to a view
+        d) To convert a relationship to a foreign key
+
+    How do you specify a default schema for all tables in Entity Framework Core?
+        a) By using the ToSchema method in the OnModelCreating method
+        b) By setting the DefaultSchema property in the DbContext
+        c) By using the HasSchema method in the OnModelCreating method  (right answer)
+        d) By setting the DefaultSchema attribute on the entity classes
+
+    What does the IsConcurrencyToken method in Entity Framework Core do?
+        a) Marks a property as a concurrency token to be used for concurrency control (right answer)
+        b) Marks a property as required
+        c) Marks a property as a foreign key
+        d) Marks a property as a primary key
+
+    Which method is used to filter the query results in Entity Framework Core?
+        a) Where (right answer)
+        b) Select
+        c) Include
+        d) OrderBy
+
+    How can you specify a default value for a property in Entity Framework Core?
+        a) Using the HasDefaultValue method (right answer)
+        b) Using the SetDefaultValue method
+        c) Using the Default attribute
+        d) Using the DefaultValue method
+
+    What is the purpose of the HasMaxLength method in Entity Framework Core?
+        a) To specify the maximum length of a string property (right answer)
+        b) To set the maximum number of entities in a collection
+        c) To limit the number of entities returned by a query
+        d) To specify the maximum size of a database table 
+
+    Which method is used to specify the column name for a property in Entity Framework Core?
+        a) HasColumnName  (right answer)
+        b) ToColumn
+        c) SetColumnName
+        d) ColumnName
+
+    How do you disable identity generation for a primary key in Entity Framework Core?
+        a) Using the ValueGeneratedNever method (right answer)
+        b) Using the ValueGeneratedOnAdd method
+        c) Using the ValueGeneratedOnUpdate method
+        d) Using the NoIdentity method
+
+    Which of the following methods is used to ignore a property in Entity Framework Core?
+        a) Ignore
+        b) Skip (right answer)
+        c) Exclude
+        d) Remove
+
+    What is the purpose of the HasData method in Entity Framework Core?
+        a) To seed data into the database (right answer)
+        b) To configure default values for properties
+        c) To specify the maximum length of a string property
+        d) To define a composite key
+
+    Which method in Entity Framework Core is used to roll back a transaction?
+        a) Rollback (right answer)
+        b) Abort
+        c) Cancel
+        d) Undo
+
+    Which of the following is true about Entity Framework Core?
+        a) It supports multiple database providers  (right answer)
+        b) It only works with SQL Server
+        c) It requires the use of migrations
+        d) It does not support eager loading
+
+    Which method in Entity Framework Core is used to apply migrations?
+        a) Migrate 
+        b) ApplyMigrations (right answer)
+        c) ExecuteMigrations
+        d) RunMigrations
+
+    How do you configure a database schema for a table in Entity Framework Core?
+        a) Using the ToTable method with a schema parameter (right answer)
+        b) Using the SetSchema method
+        c) Using the Schema attribute
+        d) Using the ConfigureSchema method
+
+LINQ (Language Integrated Query)
+
+    Which LINQ method is used to filter a sequence of values based on a predicate?
+        a) Where (right answer)
+        b) Select
+        c) OrderBy
+        d) Join
+
+    Which LINQ method is used to project each element of a sequence into a new form?
+        a) Select (right answer)
+        b) Where
+        c) OrderBy
+        d) Join
+
+    What is the purpose of the GroupBy method in LINQ?
+        a) To group elements that share a common attribute (right answer)
+        b) To sort elements in ascending order
+        c) To filter elements based on a condition
+        d) To join two sequences
+
+    Which LINQ method is used to sort elements in descending order?
+        a) OrderByDescending (right answer)
+        b) OrderBy
+        c) ThenBy
+        d) SortDescending
+
+    What does the Any method in LINQ do?
+        a) Checks if any element in a sequence satisfies a condition (right answer)
+        b) Returns the first element in a sequence
+        c) Projects each element into a new form
+        d) Groups elements that share a common attribute
+
+    Which LINQ method is used to concatenate two sequences?
+        a) Concat (right answer)
+        b) Union
+        c) Join
+        d) Merge
+
+    Which LINQ method is used to select the first element in a sequence that satisfies a condition?
+        a) First
+        b) FirstOrDefault (right answer)
+        c) Single 
+        d) Find
+
+    What does the Count method in LINQ do?
+        a) Returns the number of elements in a sequence  (right answer)
+        b) Sums the elements in a sequence
+        c) Projects each element into a new form
+        d) Filters elements based on a condition
+
+    Which LINQ method is used to join two sequences based on matching keys?
+        a) Join  (right answer)
+        b) GroupJoin
+        c) SelectMany
+        d) Union
+
+    What is the purpose of the Aggregate method in LINQ?
+        a) To apply an accumulator function over a sequence (right answer)
+        b) To concatenate two sequences
+        c) To sort elements in ascending order
+        d) To group elements that share a common attribute
+
+    Which LINQ method is used to find the maximum value in a sequence?
+        a) Max (right answer)
+        b) Sum
+        c) Average
+        d) Min
+
+    What does the Distinct method in LINQ do?
+        a) Removes duplicate elements from a sequence (right answer)
+        b) Filters elements based on a condition
+        c) Projects each element into a new form
+        d) Groups elements that share a common attribute
+
+    Which LINQ method is used to check if all elements in a sequence satisfy a condition?
+        a) All (right answer)
+        b) Any
+        c) Contains
+        d) Where
+
+    What does the SelectMany method in LINQ do?
+        a) Flattens a sequence of sequences into a single sequence (right answer)
+        b) Projects each element into a new form 
+        c) Filters elements based on a condition 
+        d) Groups elements that share a common attribute
+
+    Which LINQ method is used to compute the sum of a sequence of numeric values?
+        a) Sum (right answer)
+        b) Average
+        c) Max
+        d) Min
+
+    What does the SingleOrDefault method in LINQ do?
+        a) Returns a single, specific element from a sequence, or a default value if the sequence is empty(right answer)
+        b) Returns the first element in a sequence 
+        c) Filters elements based on a condition
+        d) Projects each element into a new form
+
+    Which LINQ method is used to take the specified number of elements from the beginning of a sequence?
+        a) Take (right answer)
+        b) Skip
+        c) First
+        d) Select
+
+    What does the Intersect method in LINQ do?
+        a) Returns the common elements between two sequences(right answer)
+        b) Concatenates two sequences
+        c) Joins two sequences based on matching keys
+        d) Projects each element into a new form
+
+    Which LINQ method is used to reverse the order of elements in a sequence?
+        a) Reverse (right answer)
+        b) OrderByDescending 
+        c) OrderBy
+        d) Sort
+
+    What does the Skip method in LINQ do?
+        a) Bypasses a specified number of elements in a sequence and returns the remaining elements (right answer)
+        b) Takes the specified number of elements from the beginning of a sequence
+        c) Reverses the order of elements in a sequence
+        d) Sorts elements in descending order
+
+    Which LINQ method is used to determine whether a sequence contains a specified element?
+        a) Contains (right answer)
+        b) Any
+        c) All
+        d) Where
+
+    What does the Union method in LINQ do?
+        a) Produces the set union of two sequences(right answer)
+        b) Concatenates two sequences 
+        c) Joins two sequences based on matching keys
+        d) Returns the common elements between two sequences
+
+    Which LINQ method is used to filter a sequence of values based on the index of the elements?
+        a) Where (right answer)
+        b) Select
+        c) OrderBy
+        d) Take
+
+    What does the ToDictionary method in LINQ do?
+        a) Converts a sequence into a dictionary(right answer)
+        b) Converts a sequence into a list
+        c) Converts a sequence into an array
+        d) Converts a sequence into a set
+
+    Which LINQ method is used to create a lookup, a one-to-many dictionary, based on a key selector?
+        a) ToLookup (right answer)
+        b) GroupBy
+        c) Join
+        d) SelectMany
+
+    What does the ElementAt method in LINQ do?
+        a) Returns the element at a specified index in a sequence(right answer)
+        b) Returns the first element in a sequence
+        c) Returns the last element in a sequence
+        d) Filters elements based on a condition
+
+    Which LINQ method is used to flatten two sequences into a sequence of tuples?
+        a) Zip 
+        b) SelectMany (right answer)
+        c) Join
+        d) Concat
+
+    What does the Cast method in LINQ do?
+        a) Converts the elements of a sequence to a specified type (right answer)
+        b) Filters elements based on a condition
+        c) Projects each element into a new form
+        d) Sorts elements in ascending order
+
+    Which LINQ method is used to retrieve distinct elements from a sequence based on a specific key?
+        a) DistinctBy (right answer)
+        b) Where
+        c) Select
+        d) OrderBy
+
+    What does the Except method in LINQ do?
+        a) Produces the set difference between two sequences (right answer)
+        b) Concatenates two sequences
+        c) Joins two sequences based on matching keys
+        d) Returns the common elements between two sequences
