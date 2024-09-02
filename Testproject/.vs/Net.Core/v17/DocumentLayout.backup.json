@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\configration\\employeeentityconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\configration\\employeeentityconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\deptproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\deptproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829154714_softdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829154714_softdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829170023_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Net.Core\\Migrations\\20240829170023_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165925_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Net.Core\\Migrations\\20240829165925_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165752_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Net.Core\\Migrations\\20240829165752_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829153642_omar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829153642_omar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829150703_addseedingdata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829150703_addseedingdata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829152229_omar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Net.Core\\Migrations\\20240829152229_omar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829145818_addseedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829145818_addseedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829103733_setconstrainsoveremployeeaddage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829103733_setconstrainsoveremployeeaddage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829105825_addforeignkeytoemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829105825_addforeignkeytoemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829110905_return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829110905_return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829092647_intialcreatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829092647_intialcreatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829101522_setconstrainsoveremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829101522_setconstrainsoveremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829170846_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829170846_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829172019_procproc_getemp_by_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829172019_procproc_getemp_by_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829164426_onetoonebetweenempandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829164426_onetoonebetweenempandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|e:\\subjects\\asp.net\\entity framework\\day 3\\net.core\\net.core\\migrations\\20240829150414_addseedingdata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D6125E-2542-42C0-B3A5-67F19EC41CAE}|Net.Core\\Net.Core.csproj|solutionrelative:net.core\\migrations\\20240829150414_addseedingdata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Program.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Program.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Program.cs",
+              "RelativeToolTip": "Net.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:58:29.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "companycontext.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\companycontext.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\companycontext.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\companycontext.cs",
+              "RelativeToolTip": "Net.Core\\Model\\companycontext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:18:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeEntityConfigration.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Configration\\EmployeeEntityConfigration.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Configration\\EmployeeEntityConfigration.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Configration\\EmployeeEntityConfigration.cs",
+              "RelativeToolTip": "Net.Core\\Configration\\EmployeeEntityConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:57:50.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\Address.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Address.cs",
+              "RelativeToolTip": "Net.Core\\Model\\Address.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:05:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\Department.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Department.cs",
+              "RelativeToolTip": "Net.Core\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:59:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "deptproject.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\deptproject.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\deptproject.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\deptproject.cs",
+              "RelativeToolTip": "Net.Core\\Model\\deptproject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:54:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\Employee.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Employee.cs",
+              "RelativeToolTip": "Net.Core\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:59:48.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Model\\Project.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Model\\Project.cs",
+              "RelativeToolTip": "Net.Core\\Model\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:59:42.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240829154714_softdelete.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829154714_softdelete.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829154714_softdelete.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829154714_softdelete.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829154714_softdelete.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:47:14.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240829172019_procproc_getemp_by_id.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829172019_procproc_getemp_by_id.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829172019_procproc_getemp_by_id.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829172019_procproc_getemp_by_id.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829172019_procproc_getemp_by_id.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:20:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240829165925_manytomany.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165925_manytomany.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829165925_manytomany.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165925_manytomany.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829165925_manytomany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:59:25.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240829170023_manytomany.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829170023_manytomany.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829170023_manytomany.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829170023_manytomany.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829170023_manytomany.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:00:24.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240829170846_manytomany.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829170846_manytomany.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829170846_manytomany.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829170846_manytomany.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829170846_manytomany.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:08:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240829165752_manytomany.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165752_manytomany.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829165752_manytomany.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829165752_manytomany.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829165752_manytomany.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:57:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240829164426_onetoonebetweenempandadd.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829164426_onetoonebetweenempandadd.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829164426_onetoonebetweenempandadd.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829164426_onetoonebetweenempandadd.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829164426_onetoonebetweenempandadd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:44:26.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240829150703_addseedingdata2.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829150703_addseedingdata2.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829150703_addseedingdata2.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829150703_addseedingdata2.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829150703_addseedingdata2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:07:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240829103733_setconstrainsoveremployeeaddage.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829103733_setconstrainsoveremployeeaddage.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829103733_setconstrainsoveremployeeaddage.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829103733_setconstrainsoveremployeeaddage.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829103733_setconstrainsoveremployeeaddage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:37:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240829145818_addseedingdata.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829145818_addseedingdata.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829145818_addseedingdata.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829145818_addseedingdata.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829145818_addseedingdata.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:58:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240829153642_omar1.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829153642_omar1.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829153642_omar1.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829153642_omar1.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829153642_omar1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:36:42.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240829150414_addseedingdata1.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829150414_addseedingdata1.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829150414_addseedingdata1.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829150414_addseedingdata1.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829150414_addseedingdata1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:04:14.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240829152229_omar.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829152229_omar.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829152229_omar.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829152229_omar.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829152229_omar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:22:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240829105825_addForeignKeytoemp.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829105825_addForeignKeytoemp.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829105825_addForeignKeytoemp.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829105825_addForeignKeytoemp.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829105825_addForeignKeytoemp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:58:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240829110905_return.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829110905_return.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829110905_return.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829110905_return.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829110905_return.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:09:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240829101522_setconstrainsoveremployee.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829101522_setconstrainsoveremployee.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829101522_setconstrainsoveremployee.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829101522_setconstrainsoveremployee.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829101522_setconstrainsoveremployee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:15:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240829092647_intialcreatedatabase.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829092647_intialcreatedatabase.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829092647_intialcreatedatabase.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829092647_intialcreatedatabase.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829092647_intialcreatedatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:26:48.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240829101045_setconstrainsoveremployee.cs",
+              "DocumentMoniker": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs",
+              "RelativeDocumentMoniker": "Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs",
+              "ToolTip": "E:\\subjects\\ASP.NET\\Entity Framework\\Day 3\\Net.Core\\Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs",
+              "RelativeToolTip": "Net.Core\\Migrations\\20240829101045_setconstrainsoveremployee.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:10:45.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
